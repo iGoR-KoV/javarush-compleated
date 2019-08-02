@@ -1,4 +1,4 @@
-package com.javarush.task.task01.x03;
+package com.javarush.task.task01.task0132;
 
 /* 
 Сумма цифр трехзначного числа
