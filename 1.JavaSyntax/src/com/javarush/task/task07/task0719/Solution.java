@@ -19,7 +19,6 @@ public class Solution {
             list.add(Integer.parseInt(reader.readLine()));
         }
         for (int i = list.size() - 1; i >= 0; i--) {
-            list.get(i);
             System.out.println(list.get(i));
         }
 
