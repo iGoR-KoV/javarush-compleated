@@ -10,7 +10,9 @@ import java.util.List;
 public class Solution {
     public static void main(String[] args) {
         List<Number> list = new LinkedList<Number>();
-
+        initList(list);
+        printListValues(list);
+        processCastedObjects(list);
     }
 
     public static List<Number> initList(List<Number> list) {
