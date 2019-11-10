@@ -1,6 +1,6 @@
 package com.javarush.task.task15.task1522;
 
-public class Earth {
+public class Earth implements Planet {
 
     private static Earth instance;
 
