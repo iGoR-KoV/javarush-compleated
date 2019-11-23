@@ -13,3 +13,4 @@ public class MinesweeperGame extends Game {
         setScreenSize(SIDE, SIDE);
     }
 }
+
